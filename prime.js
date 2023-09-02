@@ -6,5 +6,5 @@ for(let i=1;i<=num;i++){
         count++
     }
 }
-if(count==2) console.log("Nonprime")
-else console.log("prime")
+if(count==2) console.log("prime")
+else console.log("Nonprime")
